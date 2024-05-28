@@ -1,0 +1,1 @@
+This project is to demonstrate what I have learned in The Odin Project up until this point. Mostly HTML and CSS things. It should be a recipe list.
